@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ReactJSProject/static/css/main.7813d069.chunk.css",
+    "main.js": "/ReactJSProject/static/js/main.70c49fae.chunk.js",
+    "main.js.map": "/ReactJSProject/static/js/main.70c49fae.chunk.js.map",
+    "runtime-main.js": "/ReactJSProject/static/js/runtime-main.ea13b4a4.js",
+    "runtime-main.js.map": "/ReactJSProject/static/js/runtime-main.ea13b4a4.js.map",
+    "static/css/2.9d7b8a20.chunk.css": "/ReactJSProject/static/css/2.9d7b8a20.chunk.css",
+    "static/js/2.89707e7e.chunk.js": "/ReactJSProject/static/js/2.89707e7e.chunk.js",
+    "static/js/2.89707e7e.chunk.js.map": "/ReactJSProject/static/js/2.89707e7e.chunk.js.map",
+    "index.html": "/ReactJSProject/index.html",
+    "precache-manifest.6c0f609b2eb0e2c3618f0453c41b88d0.js": "/ReactJSProject/precache-manifest.6c0f609b2eb0e2c3618f0453c41b88d0.js",
+    "service-worker.js": "/ReactJSProject/service-worker.js",
+    "static/css/2.9d7b8a20.chunk.css.map": "/ReactJSProject/static/css/2.9d7b8a20.chunk.css.map",
+    "static/css/main.7813d069.chunk.css.map": "/ReactJSProject/static/css/main.7813d069.chunk.css.map",
+    "static/js/2.89707e7e.chunk.js.LICENSE.txt": "/ReactJSProject/static/js/2.89707e7e.chunk.js.LICENSE.txt",
+    "static/media/React.svg.png": "/ReactJSProject/static/media/React.svg.8f65a033.png",
+    "static/media/Vue.svg.png": "/ReactJSProject/static/media/Vue.svg.6817cc3b.png",
+    "static/media/font-awesome.min.css": "/ReactJSProject/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/iti.jpg": "/ReactJSProject/static/media/iti.ca37af33.jpg",
+    "static/media/logo.svg": "/ReactJSProject/static/media/logo.5d5d9eef.svg",
+    "static/media/mypic.jpg": "/ReactJSProject/static/media/mypic.b6b8512d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea13b4a4.js",
+    "static/css/2.9d7b8a20.chunk.css",
+    "static/js/2.89707e7e.chunk.js",
+    "static/css/main.7813d069.chunk.css",
+    "static/js/main.70c49fae.chunk.js"
+  ]
+}
